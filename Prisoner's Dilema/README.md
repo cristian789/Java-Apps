@@ -1,9 +1,9 @@
 # Prisoner's Dilema
 [![Generic badge](https://img.shields.io/badge/Java-green.svg)](https://shields.io/)
 
->This programs practices writing multiple Java classes, 
- and using several Java library classes to do I/O and simple collection 
- operation, such as Scanner, ArrayList and HashMap. 
+>This programs uses the functionallity of 
+paint and threads working together using various classes
+and integrated functions withing the Java library
 
 Simple giu prisoner's dilema game. 
 
