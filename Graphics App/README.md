@@ -9,6 +9,10 @@ Moves and redraws circles to bounce around window frame as well
 as to draw different pictures re drawing a single one
 using for loops and OOP.
 
+ It also uses the practices writing multiple Java classes, 
+ using several classes to do I/O and simple collection 
+ operations such as Scanner, ArrayList and HashMap. 
+
 ![](tty.gif)
 
 **Installation**
