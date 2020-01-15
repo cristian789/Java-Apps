@@ -13,9 +13,9 @@ using for loops and OOP.
 
 **Installation**
 ---
-1. `git clone https://github.com/cristian789/Android-Programming-java-/Top 5 American Cars App/`
+1. `git clone https://github.com/cristian789/Java-Apps/tree/master/Graphics%20App/Graphics%20app`
 2. `Unzip the file`
-3. `Run it on Android Studio`
+3. `Run it`
 4. `Enjoy!`
 
 **Lessons learned**
