@@ -12,10 +12,8 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 
 /*********************************************************************
- PROGRAM:    CSCI 470 Assignment 4
+ PROGRAM:    Prisoners Dillema
  PROGRAMMER: Cristian Aguirre
- LOGON ID:   Z1824863
- DUE DATE:   11/08/19
  
  FUNCTION:   This assignment practices writing multiple Java classes, 
  and using several Java library classes to do I/O and simple collection 
