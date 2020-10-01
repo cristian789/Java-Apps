@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff787934-6c28-4643-a663-4224ff198fbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Prisoner's Dilema.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prisoners Dilema/src/PDGameApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prisoners Dilema/src/PDGameApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

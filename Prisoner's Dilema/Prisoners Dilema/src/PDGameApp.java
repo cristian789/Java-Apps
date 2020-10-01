@@ -15,7 +15,7 @@ import javax.swing.event.ListSelectionListener;
  PROGRAM:    Prisoners Dillema
  PROGRAMMER: Cristian Aguirre
  
- FUNCTION:   This assignment practices writing multiple Java classes, 
+ FUNCTION:   This project practices writing multiple Java classes,
  and using several Java library classes to do I/O and simple collection 
  operation, such as Scanner, ArrayList and HashMap. 
 *********************************************************/
